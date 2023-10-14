@@ -303,45 +303,16 @@ watchFile(file, () => {
 - [Instagram](https://instagram.com/dims_t11)
 
 ##
+<h4>Baca ini sebelum membeli script</h4>
 
-<h4>Read this before purchasing the script</h4>
+- Apakah saya boleh menyebarluaskan kan script ini ?
+   - Tentu tidak, jika ada yang menyebarkan script ini maka harap lapor dev euphyllia 
 
-- Should I understand programming?
-   - Yes, you should be able to master basic JavaScript & Node.js.
-
-- Can I get a refund once I've received the script?
-   - No, I do not accept refund requests.
- 
-- Are there any plugins that are encrypted?
-   - Adding encryption to certain parts of the code in plugins, in order to prevent unauthorized transactions.
-
-- Can I request a feature?
-   - Yes, you are free to request any feature, but I may not necessarily develop it, though I will do my best.
-
-- Is it possible to negotiate the price of the script?
-   - No, I do not accept price negotiations.
-
-- Can I get the script for free?
-   - No, I do not provide the script for free
-
-- How many times can I change my IP address?
-   - You can change your IP address up to 5 times.
-
-- When I have used all of my IP addresses, will there be a charge to obtain more IP slots?
-   - Yes, you will incur an additional fee to obtain more IP slots. The cost for 1 IP slot is **Rp 15.000,00** / **$1**.
-
-- Will I get the werewolf and blackjack features as well?
-   - I'm sorry, I haven't published the werewolf and blackjack features yet.
- 
-- Which features do you encrypt?
-   - I encrypted the **index.js**, **print.js**, and **viki-regmail.js** files **(97% Not Encrypted)**.
-
-- Why did you encrypt the code?
-   - I encrypted the code to prevent it from being sold, and the encrypted code doesn't contain any watermark within the text message.
-
-- Am I allowed to share plugins, code, and bot api keys with others?
-   - No, I strongly prohibit that.
-
+- Apakah saya harus jago coding dulu?
+   - Iya, kamu harus bisa menguasai Javascript dulu
+   
+- Apakah pembayaran aman dan terpercaya?
+   - Iya, Pembayaran kami aman dan terpercaya 
 ##
 
 <h4>The script is supported to run on:</h4>
@@ -355,11 +326,11 @@ watchFile(file, () => {
 
 ##
 
-Demo : [euphyllia bot](https://wa.me/6282113847022?text=.menu)
+Demo : [Euphyllia bot](https://wa.me/6282113847022?text=.menu)
 <br>
 Creator : [Dims](https://wa.me/6281398274790)
 <br>
-Official Group : [Euphyllia Bot](https://chat.whatsapp.com/CHVe6nOEBcw1aRamTnHQ4q)
+Official Group : [Euphyllia Grub](https://chat.whatsapp.com/CHVe6nOEBcw1aRamTnHQ4q)
 
 ##
 
