@@ -132,11 +132,11 @@ global.stiker_wait = wait
 
 //----------- Apikey -----------//
 // Untuk apikey biarin aja pake ini aja kalau fitur error beli apikeynya jangan cuma nyolong aja:v
-global.lolkey = 'GataDios',
-global.wibu = 'zenzkey_09f34527b955',
-global.dims = 'dims_senpai', 
-global.rose = '4b146102c4d500809da9d1ff',
-global.uptime = '' // Masukin apikey uptimerobot kamu disini // https://uptimerobot.com/dashboard?ref=website-header#mySettings
+global.lolkey = 'Your_Key',
+global.wibu = 'Your_Key',
+global.dims = 'Your_Key', 
+global.rose = 'your_Key',
+global.uptime = 'Your_Key' // Masukin apikey uptimerobot kamu disini // https://uptimerobot.com/dashboard?ref=website-header#mySettings
 
 global.APIs = {
   lol: 'https://api.lolhuman.xyz',
