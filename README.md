@@ -8,9 +8,10 @@
 <p>Euphyllia Bot adalah bot WhatsApp multi-device yang berasal dari script euphyllia button, lebih tepatnya euphyllia bot adalah versi mendatang (Beta) yang akan ditingkatkan dan menjadi versi stabil.</p>
 
 ##
+##
 <h>**config.js**</h2>
 
-```javascript```
+```javascript
 // Script By Im-Dims??
 // Credits, jangan dihapus atau diubah!
 
@@ -460,6 +461,7 @@ watchFile(file, () => {
   console.log(chalk.redBright("Update 'config.js'"))
   import(`${file}?update=${Date.now()}`)
 })
+```
 ##
 
 <h4>Berapa harga script euphyllia bot?</h4>
