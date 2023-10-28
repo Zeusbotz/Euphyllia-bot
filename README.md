@@ -485,7 +485,7 @@ watchFile(file, () => {
 
 <h4>Dimana saya bisa membeli script euphyllia bot secara resmi ?</h4>
 
-- [Whatsapp](https://wa.me/+6281398274790)
+- [Whatsapp](https://wa.me/6281398274790?text=Assalamualaikum+bang+mau+beli+sc+dong)
 - [Telegram](https://t.me/euphy_ch)
 - [Instagram](https://instagram.com/dims_t11)
 
